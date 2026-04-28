@@ -4,7 +4,7 @@
 This repository provides a PyTorch-based research prototype for task-oriented radio map learning and coverage hole detection in wireless networks.
 
 <p align="center">
-  <img src="figures/Qverall_Framework.png" alt="Overall Framework" width="750">
+  <img src="figures/Overall_Framework.png" alt="Overall Framework" width="750">
 </p>
 
 ## Motivation
