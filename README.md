@@ -3,7 +3,9 @@
 ## Overview
 This repository provides a PyTorch-based research prototype for task-oriented radio map learning and coverage hole detection in wireless networks.
 
-![Overall Framework](Overall_Framework.png)
+<p align="center">
+  <img src="figures/Qverall_Framework.png" alt="Overall Framework" width="750">
+</p>
 
 ## Motivation
 Conventional RM-first pipelines reconstruct a full radio map first and then derive coverage holes. This project explores a direct task-oriented alternative: predicting coverage holes from sparse measurements, base-station information, and environmental priors.
